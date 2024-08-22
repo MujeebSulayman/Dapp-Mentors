@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Function.sol": "Name"
+			"Variables.sol": "Varia"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Function.sol": {
-			"keccak256": "0x3febf212a1ff65d49513a5ffbe988abbf03db79bac4ca592c123fe8a6b76248a",
+		"Variables.sol": {
+			"keccak256": "0x1ff2a01340a99a341837dba9dcef4102b7169acb334f5ec34ac36c1392ace719",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://8811d28235f15a39c27e6f7860b2edc9f5fa73f8fc2fcdc73564ae0469a4f2c4",
-				"dweb:/ipfs/Qmb283pHJMzUr8zUvttvJYkmYUQy3rNwSkPokrTVBYqMim"
+				"bzz-raw://ea884d2f10e11ddac0eab34475bdc3acb1783dc820be86b9a9a7d45db80ce7b3",
+				"dweb:/ipfs/QmSBsonWYpX2nnDX6CfbLvtDEETTSNxTiciKTcBNUeuZmc"
 			]
 		}
 	},

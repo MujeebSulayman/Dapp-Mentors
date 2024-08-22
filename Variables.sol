@@ -1,19 +1,24 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.26;
+pragma solidity 0.8.16;
 
 contract Variables {
+    address public id;
     string public fullName;
     uint256 public age;
+    uint256 public phoneNumber;
     string public gender;
-    address public id;
-    uint256 public regsiteredAt;
 
-    constructor(string memory _gender) {
-        uint256 _age = 23;
+    constructor( string memory _gender, string memory _fullName ) {
+        uint256 _age = 23; 
         age = _age;
 
         gender = _gender;
         id = msg.sender;
-        regsiteredAt = block.timestamp;
+        uint _phoneNumber = 7053250527;
+        phoneNumber = _phoneNumber;
+
+        
+        _fullName = 'Mujeeb Sulayman';
+        fullName = _fullName;
     }
 }

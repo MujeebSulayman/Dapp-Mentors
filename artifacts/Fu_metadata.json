@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Function.sol": "Name"
+			"Function.sol": "Fu"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"Function.sol": {
-			"keccak256": "0x3febf212a1ff65d49513a5ffbe988abbf03db79bac4ca592c123fe8a6b76248a",
+			"keccak256": "0xe0bd0e323f2d53e937fa46ee242039fd416bfa91108b16595b8331fdea410bd4",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://8811d28235f15a39c27e6f7860b2edc9f5fa73f8fc2fcdc73564ae0469a4f2c4",
-				"dweb:/ipfs/Qmb283pHJMzUr8zUvttvJYkmYUQy3rNwSkPokrTVBYqMim"
+				"bzz-raw://70d08f9492aa45cf8798b6cf64d9801eaf0d1ae4292aeaf04632fa03e4497d84",
+				"dweb:/ipfs/QmaN48krKvEPLbvnB4TXYr8DbKPGoeXZpUEXPBBvTzarax"
 			]
 		}
 	},
