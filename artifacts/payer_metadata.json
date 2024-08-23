@@ -7,19 +7,25 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "getAnswer",
-				"outputs": [],
-				"stateMutability": "nonpayable",
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
 				"type": "function"
 			},
 			{
 				"inputs": [],
-				"name": "score",
+				"name": "withdrawTo",
 				"outputs": [
 					{
-						"internalType": "uint256",
+						"internalType": "bool",
 						"name": "",
-						"type": "uint256"
+						"type": "bool"
 					}
 				],
 				"stateMutability": "view",
@@ -39,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Function.sol": "Function"
+			"Payment.sol": "payer"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -53,12 +59,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Function.sol": {
-			"keccak256": "0x41ddf972fcb7c330c9a3cb8edb6c4dfeeaec48d5dc9767079d35235a75a5ddb2",
+		"Payment.sol": {
+			"keccak256": "0x05046efaf37e1b86120a3bf813983b9c7fc69a6e0440c26ab99fad3663e4a05f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://75ad1c667d801f764b6b38c6b9c10a8be2301e58557a45431c23c18b98778bc4",
-				"dweb:/ipfs/QmbwmuVJ7DSaFh9m79wnTSDsnZJDoRmuDDu6EGovupvvNA"
+				"bzz-raw://704c45a987f6d2b5190634674686449eb6191a3918f10d76137727635e3d8be4",
+				"dweb:/ipfs/QmUXRHjJyivLCTUYbzTe6EUr2UTR1nnHAMZ7GV758NhzCh"
 			]
 		}
 	},

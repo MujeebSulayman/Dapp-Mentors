@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Payment.sol": "Name"
+			"Payment.sol": "Payme"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"Payment.sol": {
-			"keccak256": "0x8e5bbe290968c6d65b1a1c9a4b4ee785b8360e0267dc2602439a9b20e7e32bb9",
+			"keccak256": "0x4b9314ad5e0075faa84abf6fb05d2fe230192d52865ede5711290698124cd64f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://ba6f988d601cc5999363d911c9bf6d30bd0ea9260b8dbf130094a8fadcbc1c8c",
-				"dweb:/ipfs/QmZhEpd5EjeEvHY5QdGivKuJdavG33Gsp14Gug4Cd5Bn3a"
+				"bzz-raw://f9c2dcd892de28d0cfeb1a8be93bcd8757d0123e98458895136df8697d70e86e",
+				"dweb:/ipfs/QmXF2vsxskshH2M2FfUX4dDzqgNaeVaryJGVy1q4Cn59eT"
 			]
 		}
 	},
