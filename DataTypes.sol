@@ -6,10 +6,12 @@ contract DataType {
     uint256 public age = 23;
 
     //Bytes
-    bytes public "AbdulMujeeb";
+    bytes public user = "AbdulMujeeb";
 
     //Boolean
     bool public graduate = true;
+
+    //String
     string public greeting = "Good Morning";
 
     //Address

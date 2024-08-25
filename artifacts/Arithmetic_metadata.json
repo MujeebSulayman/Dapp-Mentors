@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.16+commit.07a7930e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "num1",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "num2",
+						"type": "uint256"
+					}
+				],
+				"name": "addNum",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Arithmetic.sol": "Arithmetic"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Arithmetic.sol": {
+			"keccak256": "0xc2fbf3baed1c419240d5037e33855db84ac02725de7bc206ee070a55fb2cf34a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://15664ff2f2ac3d85c19ad1b00258d525c8003275a74616e2de36aeabe7633b7a",
+				"dweb:/ipfs/QmQiAqMMwmE6n9auDdNDfhTA1PsjBJ14EqRuAXDaLhEu3J"
+			]
+		}
+	},
+	"version": 1
+}

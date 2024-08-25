@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Arithmetic.sol": "Name"
+			"Arithmetic.sol": "Arit"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"Arithmetic.sol": {
-			"keccak256": "0x91d120b190df1e6c2197bfbc65663a520ca5ee1f32d3a444f91ec927433577a4",
+			"keccak256": "0x23cb60f43c1257814c4cd40794ee098ba08e3634fb02835787f71eedff9d9ac2",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://5b6a701b2f6f01aee3a9d6b2dff7d98a0820a649201a215fe2f2f56fdf79b277",
-				"dweb:/ipfs/QmVbvr6hhNjMbUW4GK8MqxYBdWBgXHyGQcoVuvjZbZTSZT"
+				"bzz-raw://cdb39c5f0b1db33f6365083b5129a9b6d0d78287f351aec09854f957f745ca01",
+				"dweb:/ipfs/Qmb2LXrMygM96NtQBiQiiwjCbgEA8kKM9xwGEdFd1mBNTF"
 			]
 		}
 	},
