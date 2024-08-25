@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Array.sol": "Name"
+			"Array.sol": "A"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"Array.sol": {
-			"keccak256": "0x91d120b190df1e6c2197bfbc65663a520ca5ee1f32d3a444f91ec927433577a4",
+			"keccak256": "0xc50fd4a165972d8dabb9facf8f786c2723349751ab7f7132f4e7291f99772179",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://5b6a701b2f6f01aee3a9d6b2dff7d98a0820a649201a215fe2f2f56fdf79b277",
-				"dweb:/ipfs/QmVbvr6hhNjMbUW4GK8MqxYBdWBgXHyGQcoVuvjZbZTSZT"
+				"bzz-raw://5f2be16073593f455641292f266f4d217aa0e4ae1c371f4887408f0a3662c3e0",
+				"dweb:/ipfs/QmURWLh7pZFcXtxgD9D6C7fxULirN1vzTTgni7ZTTQceRp"
 			]
 		}
 	},
