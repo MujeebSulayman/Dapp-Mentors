@@ -26,7 +26,12 @@ contract Transactions {
         require(success, "Failed to send Ether");
     }
 
-    receive() external payable { }
-    fallback() external payable { }
+    function withdrawal( ) public {
+    uint256 amount = address(this).balance;
+
+    (bool success, ) = owner.call{value: amount}("");
+    require(success, "Failed to send");
+  }
+
 
 }

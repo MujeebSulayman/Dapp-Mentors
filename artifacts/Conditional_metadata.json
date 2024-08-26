@@ -7,25 +7,12 @@
 		"abi": [
 			{
 				"inputs": [],
-				"stateMutability": "payable",
+				"stateMutability": "nonpayable",
 				"type": "constructor"
 			},
 			{
 				"inputs": [],
-				"name": "GetAccount",
-				"outputs": [
-					{
-						"internalType": "address",
-						"name": "",
-						"type": "address"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "getBalance",
+				"name": "Balance",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -39,24 +26,70 @@
 			{
 				"inputs": [
 					{
-						"internalType": "uint256",
-						"name": "_amount",
-						"type": "uint256"
-					},
-					{
-						"internalType": "address payable",
-						"name": "_to",
+						"internalType": "address",
+						"name": "",
 						"type": "address"
 					}
 				],
-				"name": "sendEther",
-				"outputs": [],
-				"stateMutability": "nonpayable",
+				"name": "FirstTimer",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"name": "StakeHolder",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"name": "contributions",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
 				"type": "function"
 			},
 			{
 				"inputs": [],
-				"name": "withdrawal",
+				"name": "donate",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "withdraw",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
@@ -75,7 +108,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"TransactFunction.sol": "Transactions"
+			"Conditional.sol": "Conditional"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -89,12 +122,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"TransactFunction.sol": {
-			"keccak256": "0x998fa94de420b9d1281a7a1fb0edbdee642d6658caf82b35e8a48403385d3872",
+		"Conditional.sol": {
+			"keccak256": "0xbbaafd52d0f1dc80b0662edb2c61281936d675cb55ba82254b45e1fea41f6353",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://a42c56e213b52194f1cbbccefddfcf4d77d56be12614f0a2e24d8692049c31cb",
-				"dweb:/ipfs/QmY6Le6xA2feG5N5ztFnv9USp7kS69V1i6gaSLe9NuH4jh"
+				"bzz-raw://83512abe48e38e8382494cd3460687612f762d12cac22fa95dadfa61631b7a46",
+				"dweb:/ipfs/QmW6YFXJEeAEtrBBHDV9MyeaNe77s6WN6Bd7YCKM9mxE8f"
 			]
 		}
 	},
