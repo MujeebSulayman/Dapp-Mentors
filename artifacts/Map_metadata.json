@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Mapping.sol": "Name"
+			"Mapping.sol": "Map"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"Mapping.sol": {
-			"keccak256": "0x91d120b190df1e6c2197bfbc65663a520ca5ee1f32d3a444f91ec927433577a4",
+			"keccak256": "0x2c24938e2bae11644918f5d9d320bcc5aa08d2ee10cbdae25bd0e1dd16064f52",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://5b6a701b2f6f01aee3a9d6b2dff7d98a0820a649201a215fe2f2f56fdf79b277",
-				"dweb:/ipfs/QmVbvr6hhNjMbUW4GK8MqxYBdWBgXHyGQcoVuvjZbZTSZT"
+				"bzz-raw://4e59ace7979c3c3b8c84ef91b62effa8f5f57bdb4f1b797648b567fad717846f",
+				"dweb:/ipfs/QmSaGzdKPnnhP7X3nPDqjdUJah9mBNRytahLZ3HxuFABmd"
 			]
 		}
 	},
