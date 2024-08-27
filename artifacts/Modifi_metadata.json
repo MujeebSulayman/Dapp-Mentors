@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Modifier.sol": "Name"
+			"Modifier.sol": "Modifi"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"Modifier.sol": {
-			"keccak256": "0x91d120b190df1e6c2197bfbc65663a520ca5ee1f32d3a444f91ec927433577a4",
+			"keccak256": "0x63b3ca4667251794ad263d1264ee5dd6eb83ea32b2bdf964bb5ef1da9a87c2a6",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://5b6a701b2f6f01aee3a9d6b2dff7d98a0820a649201a215fe2f2f56fdf79b277",
-				"dweb:/ipfs/QmVbvr6hhNjMbUW4GK8MqxYBdWBgXHyGQcoVuvjZbZTSZT"
+				"bzz-raw://af5e104de6d32c613bb230d71766d2e28e4926dfbf9d4f1ecd078cf61700e4c9",
+				"dweb:/ipfs/QmW1SE48TfAwNaBFHsLCd1vnmtJtgSmiQjEQse8icztiwN"
 			]
 		}
 	},
