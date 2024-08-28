@@ -65,11 +65,11 @@
 	},
 	"sources": {
 		"Payment.sol": {
-			"keccak256": "0x922c10baa2910988aee37d8208af3c2bb5609fac345a96e1a19608067bee12e9",
+			"keccak256": "0x740dc6f67ecd05391604847893ec425c8778e0d727a06c118d4b048ae8b54a96",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://e481a934a6b3afb97796cb61a82cc7f16d9be4d14850652ef9eb22f80609794e",
-				"dweb:/ipfs/QmR3ciZCT4KUzMjafAtTs2v1dWMoyocoNFH3j2G7NPZfkR"
+				"bzz-raw://8a98cce6c4095f15177776009ca6eeafebd25a699a229225d0c00e6a679ff5cd",
+				"dweb:/ipfs/QmRa4by5mBWWDX2BY8R7Vav3PpbgjDTk84kZQuACERMwLQ"
 			]
 		}
 	},
