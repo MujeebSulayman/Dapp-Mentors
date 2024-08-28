@@ -51,7 +51,20 @@
 			},
 			{
 				"inputs": [],
-				"name": "withdrawal",
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "withdraw",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
@@ -85,11 +98,11 @@
 	},
 	"sources": {
 		"Mapping.sol": {
-			"keccak256": "0xd0fd2e3be085f413e72119913108144aa58792c584b8f9f66d349e4dc7a8ed5b",
+			"keccak256": "0xd0708f27ff6271df8ee5d017085a8aee9b393e3c1eda7739f4757ef272431b85",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://71c0e3fa8108f9bab417b41d7bf93ec8bafe11ab0296c8acb63ac8ae054b5015",
-				"dweb:/ipfs/QmbTtUrR98XFWM3nrH7yCu2PFQnKPDtCwvP8qo1v5ZnmFg"
+				"bzz-raw://6cb52a5fc2ff42110ce770d770f74615bd8a4bc846db9ba4ed2214fc4d6c1eaf",
+				"dweb:/ipfs/QmfQY3knsrAsaaw234R85e21oWh24LJw26syB4jjtnUXL4"
 			]
 		}
 	},

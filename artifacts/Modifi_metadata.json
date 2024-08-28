@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Modifier.sol": "Modifi"
+			"Modifier1.sol": "Modifi"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -32,7 +32,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"Modifier.sol": {
+		"Modifier1.sol": {
 			"keccak256": "0x63b3ca4667251794ad263d1264ee5dd6eb83ea32b2bdf964bb5ef1da9a87c2a6",
 			"license": "MIT",
 			"urls": [

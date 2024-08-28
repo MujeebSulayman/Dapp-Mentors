@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Events.sol": "Name"
+			"Events.sol": "Evr"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"Events.sol": {
-			"keccak256": "0x91d120b190df1e6c2197bfbc65663a520ca5ee1f32d3a444f91ec927433577a4",
+			"keccak256": "0xcdeaa8fe90812ca78b7f7b670bcdc7d087376eb20fcc17c016509c4b95e14f01",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://5b6a701b2f6f01aee3a9d6b2dff7d98a0820a649201a215fe2f2f56fdf79b277",
-				"dweb:/ipfs/QmVbvr6hhNjMbUW4GK8MqxYBdWBgXHyGQcoVuvjZbZTSZT"
+				"bzz-raw://70da5ecc0063176c16703ee2101d66141ae6d5229aaf928a605f9ff8ab9e1dd7",
+				"dweb:/ipfs/QmYirC475EQQ4QXSj9gr5rYve9Cz4qBTSZWtGnRpNsmBho"
 			]
 		}
 	},

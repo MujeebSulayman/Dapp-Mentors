@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Events.sol": "Name"
+			"Modifier1.sol": "Mod"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Events.sol": {
-			"keccak256": "0x91d120b190df1e6c2197bfbc65663a520ca5ee1f32d3a444f91ec927433577a4",
+		"Modifier1.sol": {
+			"keccak256": "0xd64e1fbf084a2d2a4d76fd5a4b97643f2822a87da29ef5a9af91a88d727b4c75",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://5b6a701b2f6f01aee3a9d6b2dff7d98a0820a649201a215fe2f2f56fdf79b277",
-				"dweb:/ipfs/QmVbvr6hhNjMbUW4GK8MqxYBdWBgXHyGQcoVuvjZbZTSZT"
+				"bzz-raw://8cdee78228d23167d5fc7abc4cbcd9d37f965ad2386eba92c3b54334ad3715f3",
+				"dweb:/ipfs/QmSjpuxExYhqB9iSBzXNeJiTVvweLT4h1nyHhHTihzYc8m"
 			]
 		}
 	},

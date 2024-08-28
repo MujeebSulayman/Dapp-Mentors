@@ -4,7 +4,26 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [],
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "withdraw",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -18,7 +37,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Modifier.sol": "Modifier"
+			"Modifier1.sol": "Modifier"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -32,12 +51,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Modifier.sol": {
-			"keccak256": "0x69b492c2c810741caef7b8fe6964684bae3b55fb366ed36c95a3ad0578429cab",
+		"Modifier1.sol": {
+			"keccak256": "0x8fb5930b34f809eac1b0903b6c085c3bdf3a9cfb3308ccf4a64f7e4d71ca1775",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b42103e69cfd0d84c54af3359332c4838fbc9a4c12b5efd060d15338ee49bac7",
-				"dweb:/ipfs/QmYuEDuASxVaR4pidGpsrmG2rAxSvzdbtgpyZ8DhYgbWqh"
+				"bzz-raw://c52a4c5132ec184f851c249e1bc56ea3bafcc3232d25d67e1adaa3336b055d72",
+				"dweb:/ipfs/QmdYVDJBHPhAawjJrEz4NnKWeVTMeUpqsGUNg1XsSw1tkr"
 			]
 		}
 	},
